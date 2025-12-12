@@ -6,8 +6,6 @@ Sooner or later, I'll make a readable css file that simply imports from this pla
 The hue of your color: --wlm-topbar-accent-colorH <br>
 The saturation of your color: --wlm-topbar-accent-colorS <br>
 The main luminance of your color: --wlm-topbar-accent-colorL <br>
-The secondary luminance of your color (used for lighter elements): --wlm-topbar-accent-colorLlight <br>
-The tertiary luminance of your color (only used in user section): --wlm-topbar-accent-colorLtopbar <br>
 <br>
 Height of caption bar: --wlm-topbar-tophalf-height <br>
 Height of user section: --wlm-topbar-bothalf-height <br>
